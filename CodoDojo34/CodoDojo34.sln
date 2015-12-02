@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodoDojo34", "CodoDojo34\CodoDojo34.csproj", "{F71E5813-3F21-44D7-9ACE-14773EAE8BE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDojo34Tests", "CodeDojo34Tests\CodeDojo34Tests.csproj", "{B5DEEA34-EEAB-44A6-AFD3-A0396CE2251D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F71E5813-3F21-44D7-9ACE-14773EAE8BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71E5813-3F21-44D7-9ACE-14773EAE8BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71E5813-3F21-44D7-9ACE-14773EAE8BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71E5813-3F21-44D7-9ACE-14773EAE8BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DEEA34-EEAB-44A6-AFD3-A0396CE2251D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DEEA34-EEAB-44A6-AFD3-A0396CE2251D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DEEA34-EEAB-44A6-AFD3-A0396CE2251D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DEEA34-EEAB-44A6-AFD3-A0396CE2251D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
