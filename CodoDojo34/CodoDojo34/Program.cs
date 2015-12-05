@@ -12,12 +12,4 @@ namespace CodoDojo34
         {
         }
     }
-
-    public class Testable
-    {
-        public string Echo(string s)
-        {
-            return s;
-        }
-    }
 }
